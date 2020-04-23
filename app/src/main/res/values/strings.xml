@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">头条</string>
+
+    <!-- Title -->
+    <string name="title_news">新闻</string>
+    <string name="title_video">视频</string>
+    <string name="title_media">头条号</string>
+
+    <!--Navigation Item-->
+    <string name="nav_switch_night_mode">切换主题</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_share">分享</string>
+
+    <!-- Menu Action -->
+    <string name="action_search">搜索</string>
+    <string name="action_share">分享</string>
+    <string name="action_open_comment">查看评论</string>
+    <string name="action_open_media_home">查看此头条号主页</string>
+    <string name="action_open_in_browser">在浏览器打开</string>
+
+    <!-- Nav -->
+    <string name="navigation_drawer_open">打开侧栏</string>
+    <string name="navigation_drawer_close">关闭侧栏</string>
+
+    <!-- Item Drag -->
+    <string name="tip_drag">长按编辑,拖拽排序</string>
+    <string name="my_cahnnel">我的频道</string>
+    <string name="other_channel">隐藏频道</string>
+    <string name="edit">编辑</string>
+    <string name="finish">完成</string>
+    <string name="select_channel">选择频道</string>
+
+    <!-- Bottom Sheet List -->
+    <string name="copy_content">复制内容</string>
+    <string name="share_content">分享内容</string>
+
+    <!-- View Action -->
+    <string name="copied_to_clipboard">复制成功</string>
+
+</resources>
